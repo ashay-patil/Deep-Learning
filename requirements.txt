@@ -10,3 +10,4 @@ ipykernel
 setuptools
 keras
 scikeras
+nltk
